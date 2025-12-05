@@ -1,5 +1,5 @@
 
-var startDate = '2024-03-01'; // Target 2025 Pre-Monsoon
+var startDate = '2024-03-01'; // Target 2024 Pre-Monsoon
 var endDate = '2024-05-31';
 var L8_SR = 'LANDSAT/LC08/C02/T1_L2'; // Landsat 8/9 Surface Reflectance
 
